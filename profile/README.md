@@ -11,7 +11,7 @@ This repo contains GitHub-related configuration files (issue templates, pull req
 
 [MeshGym](https://meshgym.com/) offers a range of high-quality gym mesh products designed for gyms.
 
-🌐 **Website:** [https://meshgym.com/](https://meshgym.com/)
+**Website:** [https://meshgym.com/](https://meshgym.com/)
 
 ## License
 
